@@ -1,2 +1,2 @@
-# Eric-NewProjectStarter
+# code-nation-class-roster
 Created with CodeSandbox
